@@ -23,4 +23,4 @@ At every iteration, use CVXPY to model the sub problem and use SCS to solve it.
 
 ## Citation
 
-> [info!] Will be updated.
+> [!info] Will be updated.
