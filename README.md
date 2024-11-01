@@ -12,7 +12,7 @@ Official implementation of [Scalable Kernel Inverse Optimization](https://neurip
 This is the main executable python file. 
 The dataset used for training and the relevant hyperparameters are specified in this file. 
 Subsequently, the SCS/SSO solver is invoked to solve the inverse optimization problem.
-* For example, you can run the code with `python algorithm2.py --k 1e-6 --scaler_d_T 100 --score 0 --env 6 --it 20 --batch 10000`
+* For example, you can run the code with `python algorithm.py --k 1e-6 --scaler_d_T 100 --score 0 --env 6 --it 20 --batch 10000`
 
 - ```cvx_solver.py```
 Construct the inverse optimization problem using CVXPY and solve it with the SCS solver.
