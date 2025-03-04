@@ -23,4 +23,13 @@ At every iteration, use CVXPY to model the sub problem and use SCS to solve it.
 
 ## Citation
 
-> [!info] Will be updated.
+```
+@article{long2025scalable,
+  title={Scalable kernel inverse optimization},
+  author={Long, Youyuan and Ok, Tolga and Zattoni Scroccaro, Pedro and Mohajerin Esfahani, Peyman M},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={99464--99487},
+  year={2025}
+}
+```
